@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Repository
+# COVID Data Analysis Repository
 
 This repository is dedicated to advanced data analysis and visualization of the COVID-19 pandemic, utilizing a synthetic dataset that reflects realistic trends in cases, deaths, and vaccination rates across five countries. The repository contains scripts in multiple programming languages, including R, Python, Julia, SAS, and Stata, each designed to explore different aspects of the COVID-19 data.
 
